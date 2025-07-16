@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
-// --------------------------------- METHOD-1 ------------
-/*void poscount(int arr[],int n){
+void poscount(int arr[],int n){
     cout<<"Positive : ";
    for(int i=0;i<n;i++){
        if(arr[i]>0)
@@ -37,9 +36,9 @@ int main(){
     negcount(arr, n);
     zerocount(arr, n);
     
-} */
-
-int main(){
+} 
+// --------------------------------- METHOD-1 ------------
+/*int main(){
     int n;
     cout << "Enter the size of array: ";
     cin >> n;
@@ -68,7 +67,7 @@ int main(){
     for(int i = 0; i < n; i++){
         if(arr[i] == 0)
             cout << arr[i] << " ";
-    }
+    }*/
     cout << endl;
 
     return 0;
