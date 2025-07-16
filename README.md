@@ -1,0 +1,59 @@
+1. Sum of all elements
+
+2. Find maximum element
+
+3. Count even and odd numbers
+
+4. Reverse the array
+
+5. Search for an element
+
+6. Count frequency of a given number
+
+7. Print elements greater than a given number
+
+8. Find the smallest element
+
+9. Check if array is sorted in ascending order
+
+10. Find the second largest element
+
+11. Replace all negative numbers with 0
+
+12. Count positive, negative, and zero elements
+
+13. Find difference between max and min
+
+14. Count numbers divisible by a given number
+
+15. Check if a number is a majority element
+
+16. Print alternate elements of the array
+
+17. Check if two arrays are equal
+
+18. Merge two arrays into one
+
+19. Find index of first occurrence of a number
+
+20. Calculate average of all elements
+
+21. Move all zeros to end
+
+22. Find all unique elements
+
+23. Find product of all elements
+
+24. Copy one array to another
+
+25. Find pair with given sum
+
+26. Count pairs with even sum
+
+27. Count number of prime numbers
+
+28. Print elements at even indices
+
+29. Print elements in pairs
+
+30. Rotate array to left by 1
